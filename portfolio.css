@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&family=Bangers&family=DM+Serif+Text:ital@0;1&family=Jersey+15&family=Kaushan+Script&family=Lobster&family=Pacifico&family=Playwrite+AU+SA:wght@100..400&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&family=Bangers&family=Caveat+Brush&family=Chicle&family=DM+Serif+Text:ital@0;1&family=Jersey+15&family=Kaushan+Script&family=Lobster&family=Pacifico&family=Playwrite+AU+SA:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&family=Bangers&family=Caveat+Brush&family=Chicle&family=DM+Serif+Text:ital@0;1&family=Jersey+15&family=Kaushan+Script&family=Lobster&family=Pacifico&family=Playwrite+AU+SA:wght@100..400&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 header {
   width: 100%;
 }
@@ -36,7 +36,7 @@ nav ul li a {
   padding: 8px;
   margin: 25px;
   text-decoration: none;
-  font-family: monospace;
+  font-family: "Roboto", serif;
   font-weight: bold;
   font-size: x-large;
   justify-content: space-around;
